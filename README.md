@@ -29,4 +29,4 @@ flutter run
 
 ### Referensi
 - [Dokumentasi Dart](https://dart.dev/guides)
-- [Dokumentasi Flutter](https://dart.dev/guides)
+- [Dokumentasi Flutter](https://docs.flutter.dev/)
